@@ -51,3 +51,4 @@ file](https://github.com/Qiskit/qiskit/blob/master/Qiskit.bib).
 ## License
 
 [Apache License 2.0](LICENSE)
+.
